@@ -1,3 +1,7 @@
+##Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin)]() 
+
 <h1>
     <a href="(https://www.linkedin.com/in/joao-paulo-da-silva-cavalcante-971414a7/)">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
